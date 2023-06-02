@@ -6,5 +6,5 @@ z*
 .env
 
 # Ignorar un directorio de nivel superior llamado "artifacts"
-/artifacts
+/artifacts/
 
